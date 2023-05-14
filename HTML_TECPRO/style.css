@@ -1,0 +1,32 @@
+/*Asi se pone un comentario*/
+body{
+   background-color: #dc93ff;
+   color:sienna;
+   font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+   color:#374ca7;
+   font-size: 35px;
+}
+
+h1{
+   color:#ff7ec7;
+}
+
+p{
+   color:firebrick;
+}
+
+img {
+   width:200px;
+   height: ;
+   border-style: dashed solid;
+   border-color: #6e547a;
+   padding: 20px;
+}
+
+a{
+   color:rgb(77, 122, 161)
+}
+
